@@ -1,5 +1,5 @@
 import forestWaterfallImg from "./assets/forest-waterfall.jpg";
-import desertDunes from "./assets/desert-dunes.jpg";
+import canh1 from "./assets/canh1.png";
 import majesticMountains from "./assets/majestic-mountains.jpg";
 import caribbeanBeachImg from "./assets/caribbean-beach.jpg";
 import ruinsImg from "./assets/ruins.jpg";
@@ -30,7 +30,7 @@ export const AVAILABLE_PLACES = [
     id: "p2",
     title: "Sahara Desert Dunes",
     image: {
-      src: desertDunes,
+      src: canh1,
       alt: "Golden dunes stretching to the horizon in the Sahara Desert.",
     },
   },
